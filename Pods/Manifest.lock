@@ -1,0 +1,76 @@
+PODS:
+  - Alamofire (4.9.1)
+  - Cosmos (15.0.0)
+  - DZNEmptyDataSet (1.8.1)
+  - INSPhotoGallery (1.2.8)
+  - lottie-ios (2.5.3)
+  - MBProgressHUD (1.2.0)
+  - PageMenu (2.0.0)
+  - Realm (4.4.1):
+    - Realm/Headers (= 4.4.1)
+  - Realm/Headers (4.4.1)
+  - RealmSwift (4.4.1):
+    - Realm (= 4.4.1)
+  - SDWebImage (4.4.8):
+    - SDWebImage/Core (= 4.4.8)
+  - SDWebImage/Core (4.4.8)
+  - SwiftDate (4.5.1)
+  - SwiftKeychainWrapper (3.4.0)
+  - SwiftyJSON (4.3.0)
+  - Toast-Swift (3.0.1)
+  - XCDYouTubeKit (2.13.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.6)
+  - Cosmos (~> 15.0)
+  - DZNEmptyDataSet (~> 1.8)
+  - INSPhotoGallery
+  - lottie-ios (~> 2.5)
+  - MBProgressHUD (~> 1.1)
+  - PageMenu
+  - RealmSwift
+  - SDWebImage (~> 4.3)
+  - SwiftDate (~> 4.5)
+  - SwiftKeychainWrapper
+  - SwiftyJSON (~> 4.0)
+  - Toast-Swift (~> 3.0.1)
+  - XCDYouTubeKit (~> 2.5)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Cosmos
+    - DZNEmptyDataSet
+    - INSPhotoGallery
+    - lottie-ios
+    - MBProgressHUD
+    - PageMenu
+    - Realm
+    - RealmSwift
+    - SDWebImage
+    - SwiftDate
+    - SwiftKeychainWrapper
+    - SwiftyJSON
+    - Toast-Swift
+    - XCDYouTubeKit
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  Cosmos: a6dbd3d0baa0cc8f51f8598f7508d5a09d0a9ade
+  DZNEmptyDataSet: 9525833b9e68ac21c30253e1d3d7076cc828eaa7
+  INSPhotoGallery: ad317cb9a59c7a5f08550e4155b49622c24dcab3
+  lottie-ios: a50d5c0160425cd4b01b852bb9578963e6d92d31
+  MBProgressHUD: 3ee5efcc380f6a79a7cc9b363dd669c5e1ae7406
+  PageMenu: 9c38fd7e0d9ef4b1408320f55bb907bbc0e538dc
+  Realm: 4eb04d7487bd43c0581256f40b424eafb711deff
+  RealmSwift: 3eb8924ff7100df5928c7602f71d0fec51e7c9c5
+  SDWebImage: 783af2c3fa36291a250030c4752ee370a9a51d13
+  SwiftDate: 7b56d42a221f582047287deb256b23fc5ed49a60
+  SwiftKeychainWrapper: 6fc49fbf7d4a6b0772917acb0e53a1639f6078d6
+  SwiftyJSON: 6faa0040f8b59dead0ee07436cbf76b73c08fd08
+  Toast-Swift: ba0b01b095aada709d915f9beb1d38184a2721c3
+  XCDYouTubeKit: 4902fca1721b593112b6607c509a089e911294f3
+
+PODFILE CHECKSUM: 9914a64c28ac668f5b320fb14d63bdcb78e46ad7
+
+COCOAPODS: 1.9.1
